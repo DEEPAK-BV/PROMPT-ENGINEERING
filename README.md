@@ -1,6 +1,9 @@
 Generative AI: Foundations, Architectures, Applications, and the Scaling Effect in LLMs
+
 Author: Deepak B V
+
 Register Number: 212223060036
+
 Date: 09/08/2025
 
 Abstract
